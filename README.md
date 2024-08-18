@@ -1,2 +1,2 @@
-# raya-dash
-A dashboard design for Raya Precision.
+# rayca-dash
+A dashboard design for Rayca Precision.
