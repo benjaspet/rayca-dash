@@ -10,7 +10,8 @@ export const metadata: Metadata = {
   description: "A dashboard for Rayca Precision.",
   icons: {
     icon: "https://cdn-icons-png.flaticon.com/512/14034/14034481.png"
-  }
+  },
+  themeColor: "#4da2d6",
 };
 
 export default function RootLayout({

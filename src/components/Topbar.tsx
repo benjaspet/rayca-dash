@@ -51,7 +51,7 @@ const Topbar = () => {
                                     <img
                                         className="h-8 w-8 rounded-full object-cover border-2 border-gray-300
                                         dark:border-gray-600 transition-colors duration-500 ease-in-out"
-                                        src={"/profile-picture.png"}
+                                        src={"/rayca-dash/profile-picture.png"}
                                         alt={"User Avatar"}
                                         width={32}
                                     />
